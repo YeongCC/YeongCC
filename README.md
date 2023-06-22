@@ -17,7 +17,7 @@
 <br>
 
 
-<!--<div align="center"> 
+<div align="center"> 
   <p align="center"><b>Let's connect!</b></p>
   <a href="https://www.linkedin.com/in/yeong-chee-chiew-73212a1b1/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20px" alt="HandsomeC's LinkedIn">
@@ -26,18 +26,18 @@
   <a href="https://ycc-profile.web.app/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/4302/4302080.png" width="20px" alt="HandsomeC's Web">
   </a>
- </div> -->
+ </div>
 
 <br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeongCC&show_icons=true&layout=compact&theme=radical&hide=css,html%22">
 </div>
-<br>
-
+<br> 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YeongCC&show_icons=true&theme=radical">
 </div>
-<br>
+<br>-->
 
 
